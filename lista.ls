@@ -1,0 +1,3 @@
+-rw-rw-r-- 1 matheus matheus  0 dez  5 19:35 lista.ls
+-rw-rw-r-- 1 matheus matheus 11 dez  5 19:34 olagit.txt
+-rw-rw-r-- 1 matheus matheus  0 dez  5 19:35 script.sh
